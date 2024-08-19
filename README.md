@@ -7,7 +7,7 @@
 
 - 📫 How to reach me *lalememmedova1133@gmail.com*
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="450px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
